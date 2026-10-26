@@ -1,15 +1,15 @@
 {
-  "version": "0.1.0",
-  "notes": "First release.\n\n### Added\n\n- Watch UPSs through Network UPS Tools: one on this computer, a Raspberry Pi on the network, or every UPS found on the network on one screen.\n- Sign in to the Connect cloud to see your account's customers, sites and devices, with remote diagnostics, an event timeline and live mode.\n- Mains, battery and bypass status, battery charge, load, voltage and frequency, with a log of power events.\n- Run a UPS's commands and record battery tests with the voltage curve.\n- Menu bar / system tray status, notifications for power changes and devices that stop reporting, and start at login.\n- Automatic updates: the app looks for new versions at startup and every few hours, and installs them when you choose.",
-  "pub_date": "2026-10-26T13:11:44Z",
+  "version": "0.1.1",
+  "notes": "### Fixed\n\n- The Mac app is now signed and notarized by Apple, so it opens normally after downloading instead of being reported as damaged.",
+  "pub_date": "2026-10-26T13:33:22Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0Y4cnlKUXhDdFJCUkUyVjhIR2NlZVA1NTlUeW5oZVlVd2hZRGJLZUg3cy8vSkhqVzFOT3U2ZllMY0t0NXBlWE0zS2lTVzY5Q0U2Z1JvU28xN0did3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5MzQ0CWZpbGU6VGVzY29tIENvbm5lY3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wClByOFZTbEVVOWZlUG5adW95Q0NVaS9jSDlsazdRdVZyK0U3ZTEzclA1TUV0U3NHa2I3S3c5MXk4S2lBMzNIZ3VYUTFWTjFaWTg2M3ozdm9BMTl5S0NBPT0K",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa04wbGM1emdxYzlKT1VOU2lGNXVzMlNEUVQwSW5RNkNmU2Y3SjZSUitrMTdkWi9ySisxaDlwN3pCODdBZk1Nc0dHY2ZqUVdlQXdXekN1SHczM2ZSOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxMzQyCWZpbGU6VGVzY29tIENvbm5lY3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xClRySjZhcGRod0VjODdPanArZmR0SXo5OWdvazJwY3BNYTNnRjBSZjE5QlNYUkNCdnVmTTJZT0pQdTVRU1lIZkdrVG9xZ1BaRVVQbEFFSitTaW41ZEJ3PT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_x64.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0Y4cnlKUXhDdFJCUkUyVjhIR2NlZVA1NTlUeW5oZVlVd2hZRGJLZUg3cy8vSkhqVzFOT3U2ZllMY0t0NXBlWE0zS2lTVzY5Q0U2Z1JvU28xN0did3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5MzQ0CWZpbGU6VGVzY29tIENvbm5lY3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wClByOFZTbEVVOWZlUG5adW95Q0NVaS9jSDlsazdRdVZyK0U3ZTEzclA1TUV0U3NHa2I3S3c5MXk4S2lBMzNIZ3VYUTFWTjFaWTg2M3ozdm9BMTl5S0NBPT0K",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa04wbGM1emdxYzlKT1VOU2lGNXVzMlNEUVQwSW5RNkNmU2Y3SjZSUitrMTdkWi9ySisxaDlwN3pCODdBZk1Nc0dHY2ZqUVdlQXdXekN1SHczM2ZSOUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxMzQyCWZpbGU6VGVzY29tIENvbm5lY3QuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xClRySjZhcGRod0VjODdPanArZmR0SXo5OWdvazJwY3BNYTNnRjBSZjE5QlNYUkNCdnVmTTJZT0pQdTVRU1lIZkdrVG9xZ1BaRVVQbEFFSitTaW41ZEJ3PT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_x64.app.tar.gz"
     }
   }
 }

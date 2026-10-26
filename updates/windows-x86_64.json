@@ -1,19 +1,19 @@
 {
-  "version": "0.1.0",
-  "notes": "First release.\n\n### Added\n\n- Watch UPSs through Network UPS Tools: one on this computer, a Raspberry Pi on the network, or every UPS found on the network on one screen.\n- Sign in to the Connect cloud to see your account's customers, sites and devices, with remote diagnostics, an event timeline and live mode.\n- Mains, battery and bypass status, battery charge, load, voltage and frequency, with a log of power events.\n- Run a UPS's commands and record battery tests with the voltage curve.\n- Menu bar / system tray status, notifications for power changes and devices that stop reporting, and start at login.\n- Automatic updates: the app looks for new versions at startup and every few hours, and installs them when you choose.",
-  "pub_date": "2026-10-26T13:11:44Z",
+  "version": "0.1.1",
+  "notes": "### Fixed\n\n- The Mac app is now signed and notarized by Apple, so it opens normally after downloading instead of being reported as damaged.",
+  "pub_date": "2026-10-26T13:33:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0czcUUrcTJZbVk0b2JBRWZsMFZreXdzYTVFUVBuNzJ3aTBrTklKdDUxOVJzM1crK0JLbzNZRW03U2d3SW12YUFtTEpBdXhYTDJOR3NDTVBucGJFbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5OTEyCWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCnZyTEpDSDlub01DVDBkdjZKSFRqL1dLSU41SHIveFdZZTVuZHdQd21KZWR3d2JYc1dLbzhuSU5CQitMek1PTWttcFljdEtQbThQN25wanBMNGloREF3PT0K",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa1BlRHlvTnQveEtWL21xZlhaa0srNzFFUXcrVG9nTzZTSHlUNmNyOU9scVVYR3Vab0wrZk84cWtWVlF4cmw0SDh6N3hHelFXdFlYdEkvMnNQZXNlS0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNTgwCWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCkYxblBwTDE4SXFyOUVKcFpzR0U2R0RXaTkxcmQvdlVYenMvT3VBdEFWMDRVazNaNnlrN2NYWkZlNDFrVWlPM1BEQzJ4Nk1CNnAybUI0SUdWR2RsUUJ3PT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_0.1.1_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa09VakpQVDZ5ZEloOVVIZkZJY0svQXpnNUczV0pMQUduUHNiSiszZXhEandlaUFuZmFWc2JsOHlNRm1DaXhlSEpCUkZyaDhIN0VTdFVSNkRvSkMyV2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5OTExCWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4wCkMvTmhzRTFyZ1VWYWJlZVRDR01PakdCcTBpVkkvZkRWQ3NvdXBFN1hCZ2cyWG8wZ3dtM1ZVSmVBUWdrRm11R2xVcWM4bmJqMittbUNpcTVuN0xNYUNBPT0K",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_0.1.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0NTd01leWMySnhCak5haFBlMkJXY2x2QnFXam4ySlk0NXUrRHZ2cHBOMGU0aFlNMW5DRUV6Vm4wQWg0TERyQ3htamZ3akdqL2t3QXk3dmdPNGNTQ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNTgwCWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjFfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjAuMS4xCkNqS2FaNlVLWE9VemtXVjdGNWhoSko4bEFFQUcyMVZWWVlDMUY5VkNOUGJKMVIxNUhTcVBBc3ZQUzRXTnQwdnV6SlhYQ2pqZTNLWktxYlpuaEJwaEJRPT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_0.1.1_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0czcUUrcTJZbVk0b2JBRWZsMFZreXdzYTVFUVBuNzJ3aTBrTklKdDUxOVJzM1crK0JLbzNZRW03U2d3SW12YUFtTEpBdXhYTDJOR3NDTVBucGJFbFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5OTEyCWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCnZyTEpDSDlub01DVDBkdjZKSFRqL1dLSU41SHIveFdZZTVuZHdQd21KZWR3d2JYc1dLbzhuSU5CQitMek1PTWttcFljdEtQbThQN25wanBMNGloREF3PT0K",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa1BlRHlvTnQveEtWL21xZlhaa0srNzFFUXcrVG9nTzZTSHlUNmNyOU9scVVYR3Vab0wrZk84cWtWVlF4cmw0SDh6N3hHelFXdFlYdEkvMnNQZXNlS0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNTgwCWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4xCkYxblBwTDE4SXFyOUVKcFpzR0U2R0RXaTkxcmQvdlVYenMvT3VBdEFWMDRVazNaNnlrN2NYWkZlNDFrVWlPM1BEQzJ4Nk1CNnAybUI0SUdWR2RsUUJ3PT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_0.1.1_x64-setup.exe"
     }
   }
 }
