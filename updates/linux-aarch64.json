@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "notes": "First release.\n\n### Added\n\n- Watch UPSs through Network UPS Tools: one on this computer, a Raspberry Pi on the network, or every UPS found on the network on one screen.\n- Sign in to the Connect cloud to see your account's customers, sites and devices, with remote diagnostics, an event timeline and live mode.\n- Mains, battery and bypass status, battery charge, load, voltage and frequency, with a log of power events.\n- Run a UPS's commands and record battery tests with the voltage curve.\n- Menu bar / system tray status, notifications for power changes and devices that stop reporting, and start at login.\n- Automatic updates: the app looks for new versions at startup and every few hours, and installs them when you choose.",
+  "pub_date": "2026-10-26T13:11:44Z",
+  "platforms": {
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa055bkJKYmRWVzd6Y3ZYaEh0ZVRkOUFYWUN3M1RxZldHU1dCdjIxSlIvTUVFSjJUb01wU1dIOUlLRnkrUWpiSnNRQUNFWXdIZm4ydjZwdTI4eTNsS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5NzM4CWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjBfYWFyY2g2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS4wCk80TlRsRjRrTUtTYzVRZUs2cG5PcTVpRkhieHJYb0g1T0lMVUIvRXpseGtEbldsU0VYRVh0RUMvdmJJdCtuVUlZWEV0RW1PZDZ1RmZXV1liMVdwT0JnPT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_0.1.0_aarch64.AppImage"
+    },
+    "linux-aarch64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa055bkJKYmRWVzd6Y3ZYaEh0ZVRkOUFYWUN3M1RxZldHU1dCdjIxSlIvTUVFSjJUb01wU1dIOUlLRnkrUWpiSnNRQUNFWXdIZm4ydjZwdTI4eTNsS1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5NzM4CWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjBfYWFyY2g2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMS4wCk80TlRsRjRrTUtTYzVRZUs2cG5PcTVpRkhieHJYb0g1T0lMVUIvRXpseGtEbldsU0VYRVh0RUMvdmJJdCtuVUlZWEV0RW1PZDZ1RmZXV1liMVdwT0JnPT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_0.1.0_aarch64.AppImage"
+    },
+    "linux-aarch64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0crS0NocklTZ0ZEVG9zV0lLenpvc0FhZU9raTYyTmgvOFQydlVCMVhydnI0S2VnU2pDRXloL0NiRFZwWjdGRmN3Y1lWRkg1VDZyRDM5V3hKbXV4UlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5NzM4CWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjBfYXJtNjQuZGViCXZlcnNpb246MC4xLjAKVXNrTkQzL1VIaDNsaGdwUlJZUWFXMUk4bnh6RTRoV3NvQktNZGY4Qkd3WG1PMWhOa1FDT0lBdEI0SUhHM2NrUk9xVjBrMnFsYnNjalJWNytIbm9EQ2c9PQo=",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect_0.1.0_arm64.deb"
+    },
+    "linux-aarch64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0VDRFVCOWs5K2hkMzBVTzhKQ3VKZDQ3bWdUQlpDc0tnRjVGOUV5a2phQXJNaFJPZkJ4cElabWZUNVZ4c21LaUFIbkJJREZjSnJvRzQvZUR0OXcrRHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDE5NzM4CWZpbGU6VGVzY29tIENvbm5lY3QtMC4xLjAtMS5hYXJjaDY0LnJwbQl2ZXJzaW9uOjAuMS4wCjB4WkYvNTlqUExZK0theGEydlpPckJkL09uUXJSYXJuTE1DYWxzM2ova1VQbzFZaStZbjJ5RUx2TkkxdmhHUHJkN3ArUkIrSzJDQy9vaFIzTU02VER3PT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.0/Tescom.Connect-0.1.0-1.aarch64.rpm"
+    }
+  }
+}
