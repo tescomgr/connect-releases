@@ -1,23 +1,23 @@
 {
-  "version": "0.1.1",
-  "notes": "### Fixed\n\n- The Mac app is now signed and notarized by Apple, so it opens normally after downloading instead of being reported as damaged.",
-  "pub_date": "2026-10-26T13:33:22Z",
+  "version": "0.2.2",
+  "notes": "### Fixed\n\n- Mac: a UPS plugged into the Mac now shows in macOS's battery menu with its real charge and whether it's on mains or battery. Some UPSs, such as the Leo SmartBox, showed there at 0 % before.\n\n### Added\n\n- Mac: Preferences \u2192 \"Show the UPS in the Mac's battery menu\". macOS shows a UPS there in place of the Mac's own battery; turn it off to see the Mac's battery instead. The app's menu bar icon still lists every UPS.",
+  "pub_date": "2026-11-04T17:24:15Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0IyU2Z5L092TkN2N0I5dFlzK3NSSHNTK21GRUM4cDRxQ0tiZlZENkg1UGVXRVBQNUVUOHBsaVdTTzRIU2htZ0pCYmhoNHI3NGJMVENocExQcWNaMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNDk5CWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMQpDOWF5ek01a1RYN2JvdXpleGFzelJNN0FUT1dSZFVUclc2ZTFSRFRERWh1Wi9tWUlQQmp3MVk4b3d6eGZvaWRnazJSeDNaQ3FxVVRWQ3hTcjA5d0hBZz09Cg==",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_0.1.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0dHZ3g0WlR2WlZwcG44Y1dKWk9VbEMrYVZkWkhockhCNlYrbjNPSlJxd1J5bmtHS2ZQUHYrVmJhWVRDMk1OOHBvV2t4aVpOTi9iSm11K0xCRGhydlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjQxCWZpbGU6VGVzY29tIENvbm5lY3RfMC4yLjJfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMgpnc2t6UisxMVRWMzJmcHRpWkk4WWU1bU9OTmRYWFFhVEhGR2RTNW52anB0ZGU3Qnd4MlMvMzB5YWExWFFsTU84R2JjT1puL2Zza3BzOFJDdjhRMkVEUT09Cg==",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0IyU2Z5L092TkN2N0I5dFlzK3NSSHNTK21GRUM4cDRxQ0tiZlZENkg1UGVXRVBQNUVUOHBsaVdTTzRIU2htZ0pCYmhoNHI3NGJMVENocExQcWNaMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNDk5CWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjFfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMQpDOWF5ek01a1RYN2JvdXpleGFzelJNN0FUT1dSZFVUclc2ZTFSRFRERWh1Wi9tWUlQQmp3MVk4b3d6eGZvaWRnazJSeDNaQ3FxVVRWQ3hTcjA5d0hBZz09Cg==",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_0.1.1_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0dHZ3g0WlR2WlZwcG44Y1dKWk9VbEMrYVZkWkhockhCNlYrbjNPSlJxd1J5bmtHS2ZQUHYrVmJhWVRDMk1OOHBvV2t4aVpOTi9iSm11K0xCRGhydlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjQxCWZpbGU6VGVzY29tIENvbm5lY3RfMC4yLjJfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMgpnc2t6UisxMVRWMzJmcHRpWkk4WWU1bU9OTmRYWFFhVEhGR2RTNW52anB0ZGU3Qnd4MlMvMzB5YWExWFFsTU84R2JjT1puL2Zza3BzOFJDdjhRMkVEUT09Cg==",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0lsVk5oL2Nrb2hJdzZiejE3Y0YxcENub28rU01UTTNkaVdISXoxandVK3daVFl0dDJBRS95SGhFRUt0SzFjVEM4YlcvV1BJZUE1c3d3RUtWbVRDR1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNDk5CWZpbGU6VGVzY29tIENvbm5lY3RfMC4xLjFfYW1kNjQuZGViCXZlcnNpb246MC4xLjEKNUxyY3pHdEowWDNXREVhSzNMUGJOSUxlZ2xHMUJ2NE9QZHYwV292aTBZMEkyTjBVeGhwSDlUUG42OVJwekc4TklCZlBhRXVqNG5BYVJkQXR1U2R2Q3c9PQo=",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect_0.1.1_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0RMU1BzRnF0Rmw2d2dKYkdFV3l1cVJoaEwra3NNdENhcGZJS0lEM0lWRjNIOGlUUTVsd1AxRXRTWWZKOFgzdmZad2N5VTF5KzRHSE5QVGNGREdVeUFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjQxCWZpbGU6VGVzY29tIENvbm5lY3RfMC4yLjJfYW1kNjQuZGViCXZlcnNpb246MC4yLjIKK2h4T0h0S0tTMWhQMzl6MFRydUdNVEtlOXpZUU13N0RRbE5IeVBtVHJWQjlvREhIQXJndzdjSHB2d2Uxdnh0TVJGVW9BN3UvZ2FxTEFLMm1HRmNQQXc9PQo=",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa05mU05BTWE1bHJUMytWNmFFSzg3U1ZtdkpwL1dkVS9BUnQ4U2U5eGJLbFFYbGw0M2JWMGtlRDkvOVl2NUhBUlV3VlRRTllPN1ZOZnhFeEFORHFTRkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDIxNDk5CWZpbGU6VGVzY29tIENvbm5lY3QtMC4xLjEtMS54ODZfNjQucnBtCXZlcnNpb246MC4xLjEKcEZyb2pjbzdZVU5keDlKYUo2S2VrMzlkeDdqa0duZFQvcURyU3cwL2xRNVhxa2RSek9OUmFSc1F1KzVwZlZ1OTczZ1g5ZTk4VEI3WDZ3RlQvWnJvQ0E9PQo=",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.1.1/Tescom.Connect-0.1.1-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0lRZHRUZ3kxaWV6NFFydS96a3c3bWUzUnRDMXlYTERwRUNTd3VtanRZOXNSbzVGMHJBNVpoS0VUTUM4c21QU3IwcHNJMVNXR1RjekJkS1BmODE4REFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjQxCWZpbGU6VGVzY29tIENvbm5lY3QtMC4yLjItMS54ODZfNjQucnBtCXZlcnNpb246MC4yLjIKYW85TGhVbVZZa2ZLUVZLV3dEdDc5MVVaQzVLRTArUk83VVF6VVk1VG1UdEFKZ1pFWXpGais4WTYzU2FranErZzdXRjAwWGh0TlNrRTh4N1M2dytPQ3c9PQo=",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect-0.2.2-1.x86_64.rpm"
     }
   }
 }
