@@ -1,7 +1,7 @@
 {
   "version": "0.2.2",
   "notes": "### Fixed\n\n- Mac: a UPS plugged into the Mac now shows in macOS's battery menu with its real charge and whether it's on mains or battery. Some UPSs, such as the Leo SmartBox, showed there at 0 % before.\n\n### Added\n\n- Mac: Preferences \u2192 \"Show the UPS in the Mac's battery menu\". macOS shows a UPS there in place of the Mac's own battery; turn it off to see the Mac's battery instead. The app's menu bar icon still lists every UPS.",
-  "pub_date": "2026-11-04T17:24:15Z",
+  "pub_date": "2026-11-04T17:36:04Z",
   "platforms": {
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0dHZ3g0WlR2WlZwcG44Y1dKWk9VbEMrYVZkWkhockhCNlYrbjNPSlJxd1J5bmtHS2ZQUHYrVmJhWVRDMk1OOHBvV2t4aVpOTi9iSm11K0xCRGhydlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNjQxCWZpbGU6VGVzY29tIENvbm5lY3RfMC4yLjJfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMgpnc2t6UisxMVRWMzJmcHRpWkk4WWU1bU9OTmRYWFFhVEhGR2RTNW52anB0ZGU3Qnd4MlMvMzB5YWExWFFsTU84R2JjT1puL2Zza3BzOFJDdjhRMkVEUT09Cg==",
