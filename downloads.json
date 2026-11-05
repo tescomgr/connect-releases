@@ -1,16 +1,16 @@
 {
   "darwin-aarch64": {
-    "version": "0.2.2",
-    "date": "2026-11-04",
+    "version": "0.3.1",
+    "date": "2026-11-05",
     "files": {
-      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_aarch64.dmg"
+      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.3.1/Tescom.Connect_0.3.1_aarch64.dmg"
     }
   },
   "darwin-x86_64": {
-    "version": "0.2.2",
-    "date": "2026-11-04",
+    "version": "0.3.1",
+    "date": "2026-11-05",
     "files": {
-      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_x64.dmg"
+      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.3.1/Tescom.Connect_0.3.1_x64.dmg"
     }
   },
   "windows-x86_64": {

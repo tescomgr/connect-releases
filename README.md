@@ -6,8 +6,8 @@ from here; you only need these for a first install.
 <!-- downloads -->
 | System | Version | Download |
 | --- | --- | --- |
-| Mac with Apple silicon | 0.2.2 | [dmg](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_aarch64.dmg) |
-| Mac with Intel | 0.2.2 | [dmg](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_x64.dmg) |
+| Mac with Apple silicon | 0.3.1 | [dmg](https://github.com/tescomgr/connect-releases/releases/download/v0.3.1/Tescom.Connect_0.3.1_aarch64.dmg) |
+| Mac with Intel | 0.3.1 | [dmg](https://github.com/tescomgr/connect-releases/releases/download/v0.3.1/Tescom.Connect_0.3.1_x64.dmg) |
 | Windows | 0.2.2 | [exe](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_x64-setup.exe) · [msi](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_x64_en-US.msi) |
 | Windows on ARM | 0.2.2 | [exe](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_arm64-setup.exe) |
 | Linux | 0.2.2 | [deb](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_amd64.deb) · [AppImage](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_amd64.AppImage) · [rpm](https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect-0.2.2-1.x86_64.rpm) |
