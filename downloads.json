@@ -1,16 +1,16 @@
 {
   "darwin-aarch64": {
-    "version": "0.4.0",
-    "date": "2026-11-13",
+    "version": "0.6.0",
+    "date": "2026-11-17",
     "files": {
-      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect_0.4.0_aarch64.dmg"
+      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect_0.6.0_aarch64.dmg"
     }
   },
   "darwin-x86_64": {
-    "version": "0.4.0",
-    "date": "2026-11-13",
+    "version": "0.6.0",
+    "date": "2026-11-17",
     "files": {
-      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect_0.4.0_x64.dmg"
+      "dmg": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect_0.6.0_x64.dmg"
     }
   },
   "windows-x86_64": {
@@ -29,21 +29,21 @@
     }
   },
   "linux-x86_64": {
-    "version": "0.4.0",
-    "date": "2026-11-13",
+    "version": "0.6.0",
+    "date": "2026-11-17",
     "files": {
-      "deb": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect_0.4.0_amd64.deb",
-      "AppImage": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect_0.4.0_amd64.AppImage",
-      "rpm": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect-0.4.0-1.x86_64.rpm"
+      "deb": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect_0.6.0_amd64.deb",
+      "AppImage": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect_0.6.0_amd64.AppImage",
+      "rpm": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect-0.6.0-1.x86_64.rpm"
     }
   },
   "linux-aarch64": {
-    "version": "0.4.0",
-    "date": "2026-11-13",
+    "version": "0.6.0",
+    "date": "2026-11-17",
     "files": {
-      "deb": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect_0.4.0_arm64.deb",
-      "AppImage": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect_0.4.0_aarch64.AppImage",
-      "rpm": "https://github.com/tescomgr/connect-releases/releases/download/v0.4.0/Tescom.Connect-0.4.0-1.aarch64.rpm"
+      "deb": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect_0.6.0_arm64.deb",
+      "AppImage": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect_0.6.0_aarch64.AppImage",
+      "rpm": "https://github.com/tescomgr/connect-releases/releases/download/v0.6.0/Tescom.Connect-0.6.0-1.aarch64.rpm"
     }
   }
 }
