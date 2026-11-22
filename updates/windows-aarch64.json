@@ -1,15 +1,15 @@
 {
-  "version": "0.2.2",
-  "notes": "### Fixed\n\n- Mac: a UPS plugged into the Mac now shows in macOS's battery menu with its real charge and whether it's on mains or battery. Some UPSs, such as the Leo SmartBox, showed there at 0 % before.\n\n### Added\n\n- Mac: Preferences \u2192 \"Show the UPS in the Mac's battery menu\". macOS shows a UPS there in place of the Mac's own battery; turn it off to see the Mac's battery instead. The app's menu bar icon still lists every UPS.",
-  "pub_date": "2026-11-04T17:36:04Z",
+  "version": "0.8.1",
+  "notes": "### Improved\n\n- **A modern window on Windows.** The app fills the whole window, as on a Mac: no grey title bar, with the minimise, maximise and close buttons in its own colours at the top right. Drag the window by its top edge or the sidebar; double-click there to maximise.\n\n### Fixed\n\n- A UPS's state and its power path no longer overlap the readings below them when the window is small or the page is long (most noticeable on Windows).\n- In a narrower window the sentence under the state wraps, and the power path stays beside it, centred, instead of dropping below it.\n- On a phone-sized window the power path is centred with even space around it, and its labels are no longer oversized.",
+  "pub_date": "2026-11-22T02:17:28Z",
   "platforms": {
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0NLRjBrWGYrK2ZlQU5zMjJGVG5yVmUxMCt4Q01pNGhCWUlEUkUxL3B6YTB5UHpibS92cEd2dXYrR3F6ZlhiQ2hzaDVGSXNOVlZTNzU2ZldreHZSZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNzQ1CWZpbGU6VGVzY29tIENvbm5lY3RfMC4yLjJfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIKZ3YxQzdhQjNPZHRMRjN5WHF2Qk81THdwMlBWL2dTbkJFby9Ic253Wk0xcXhNMG5MdUZRL0txRzlGMlQ2Tm1zcnlLSTIrNm1SNFk1cXlFT25FRk1qQ1E9PQo=",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa1A5Vm1zWHNBVUplQzNRenFCaEdQUkg2Slg1dHI4UmNlZnJOK1ZMZWpyaE0wY3I0Tk1WL25IMHk0ZnU2ZXZsczFwMHpWN2FSWU9xTmN1YXNQVm9rVGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEzNjc4CWZpbGU6VGVzY29tLkNvbm5lY3RfMC44LjFfYXJtNjQtc2V0dXAuZXhlCkRlMkhCQXNTS1VrZEQvRVZJalphd2xseVhMZkM5N3BwR1kxVS9YaW9xZUcvN0tEU3Z0UFExT1ZwUnZ2UXNtQzJLTTJOTkoyMTgwb3pETk9BTE5TeUNRPT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.8.1/Tescom.Connect_0.8.1_arm64-setup.exe"
     },
     "windows-aarch64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa0NLRjBrWGYrK2ZlQU5zMjJGVG5yVmUxMCt4Q01pNGhCWUlEUkUxL3B6YTB5UHpibS92cEd2dXYrR3F6ZlhiQ2hzaDVGSXNOVlZTNzU2ZldreHZSZFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODEwNzQ1CWZpbGU6VGVzY29tIENvbm5lY3RfMC4yLjJfYXJtNjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIKZ3YxQzdhQjNPZHRMRjN5WHF2Qk81THdwMlBWL2dTbkJFby9Ic253Wk0xcXhNMG5MdUZRL0txRzlGMlQ2Tm1zcnlLSTIrNm1SNFk1cXlFT25FRk1qQ1E9PQo=",
-      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.2.2/Tescom.Connect_0.2.2_arm64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa1A5Vm1zWHNBVUplQzNRenFCaEdQUkg2Slg1dHI4UmNlZnJOK1ZMZWpyaE0wY3I0Tk1WL25IMHk0ZnU2ZXZsczFwMHpWN2FSWU9xTmN1YXNQVm9rVGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEzNjc4CWZpbGU6VGVzY29tLkNvbm5lY3RfMC44LjFfYXJtNjQtc2V0dXAuZXhlCkRlMkhCQXNTS1VrZEQvRVZJalphd2xseVhMZkM5N3BwR1kxVS9YaW9xZUcvN0tEU3Z0UFExT1ZwUnZ2UXNtQzJLTTJOTkoyMTgwb3pETk9BTE5TeUNRPT0K",
+      "url": "https://github.com/tescomgr/connect-releases/releases/download/v0.8.1/Tescom.Connect_0.8.1_arm64-setup.exe"
     }
   }
 }
