@@ -1,0 +1,8 @@
+{
+  "app": "0.8.0",
+  "ui": 1,
+  "notes": "The state and power path no longer overlap the readings in a small window; the sentence under the state wraps beside the power path.",
+  "url": "https://github.com/tescomgr/connect-releases/releases/download/ui-0.8.0-1/ui-0.8.0-1.zip",
+  "sha256": "05e4d3fce2681ac4be86780e13a5c6e1b4e89ab47542b1211fbb1a01f53d01b0",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa012d0x2NlU0VlhBVEJZRDdvVjZnSDh5OThnMDBXOXREY3UxK2ZiU2MwbE5aVnRLUWVOczJmQmJnZDU3S3JBaGszUE42bkg0NGg1aFZZL0dCTWhsYkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MzEwOTkwCWZpbGU6dWktMC44LjAtMS56aXAKQjRWSUc0WTJUYzVkL1A1OWNUdGtFMjV2c2NSQm1zMHM4SXc4ckd0cDR4aEJHemNibmcxWS82TDUrSUdvNkVqTkJxVHNlWXF1NGc1Y2JTNDZxeHNaREE9PQo="
+}
