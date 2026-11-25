@@ -1,0 +1,8 @@
+{
+  "app": "0.9.0",
+  "ui": 1,
+  "notes": "My devices: send a UPS from a Linux server",
+  "url": "https://github.com/tescomgr/connect-releases/releases/download/ui-0.9.0-1/ui-0.9.0-1.zip",
+  "sha256": "a2606053ed81d87779ff0443db997caf6839a47034a78b6f7f87b5deee96b2c5",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRNWJCMjRuM2NIa1AvL25UenlDcTJhQU02anhIejdSTXB3V3QxeEo4cUZpRnNqWkpNR2tDdG5nWjdacnBhMzMzalBjeTZrWkpJOGdyTzhnWFFUc2VCU3BTY1l1aWhEWWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjAxMTM1CWZpbGU6dWktMC45LjAtMS56aXAKeDg4dG1xN2RqVUo1Mjc2N2M0Z1psaW94LzVxeG9Rek9reFpmcWFIUi9SQkQ5OTVNN204azFDenVobVVFeGFrS3RyZUR1VEdQVm1lN3RPQ1ptQjk0QkE9PQo="
+}
